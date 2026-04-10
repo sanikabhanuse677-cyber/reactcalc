@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
@@ -100,7 +99,7 @@ export default function App() {
 
     </div>
   );
-=======
+
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
@@ -202,5 +201,4 @@ export default function App() {
 
     </div>
   );
->>>>>>> 8a0d9b02fef23ecf2fe5eec49f366d618a85eb38
 }
