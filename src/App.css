@@ -98,3 +98,9 @@ footer {
 .history {
   padding-left: 10px;
 }
+.calculator {
+  box-shadow: 0 0 20px rgba(59,130,246,0.3);
+}
+button:hover {
+  box-shadow: 0 0 10px rgba(255,255,255,0.2);
+}
